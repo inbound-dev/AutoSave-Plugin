@@ -1,0 +1,10 @@
+name: AutoSave
+version: 1.0
+author: Jordan
+main: me.jordan.AutoSave.Main
+description: Saves the world every 30 minutes!
+
+commands: 
+  AutoSave:
+    aliases: [save]
+    description: This will start the periodic saving of the world!
